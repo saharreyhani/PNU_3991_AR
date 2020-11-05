@@ -3,11 +3,11 @@
 ### سحر ریحانی
  
 ---
-- [github account]()
+- [github account](https://github.com/saharreyhani)
   : حساب گیت هاب
-- [resume]()
+- [resume](https://saharreyhani.github.io/sahar-reyhani.github.io/)
   : رزومه
-- [SOP]()
+- [SOP](https://saharreyhani.github.io/SOP/)
   :انگیزنه نامه 
 - [java script](js.pdf)
   : مدرک جاوا اسکریپت

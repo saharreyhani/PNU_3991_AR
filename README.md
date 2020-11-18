@@ -64,14 +64,14 @@
      <th></th>
      <th></th>
      <th></th>
-     <th>ا</th>   
+     <th></th>   
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th></th>
     <th></th>
     <th></th>
-    <th>ی</th>
+    <th></th>
     <th></th>
     <th></th>
     <th>سه شنبه</th>

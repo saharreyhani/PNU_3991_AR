@@ -8,6 +8,9 @@
 - [resume](https://saharreyhani.github.io/sahar-reyhani.github.io/)
 - [SOP](https://saharreyhani.github.io/SOP/)
 - [java script](js.pdf)
+- [ ارزیابی عمومی](https://github.com/saharreyhani/PNU_3991_AR-1/blob/main/Theory-of-Languages-and-Machines/f94g_xx_generalsection_checklist_ar_3991-%DB%B6.pdf)
+- [ارزیابی عمومی بخش رزومه ](https://github.com/saharreyhani/PNU_3991_AR-1/blob/main/Theory-of-Languages-and-Machines/k8rj_xx_cv_checklist_ar_3991-%DB%B6.pdf)
+  
 
 ------------------
 ## Winter Semester Courses 1399/2020

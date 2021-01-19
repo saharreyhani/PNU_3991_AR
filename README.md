@@ -10,6 +10,7 @@
 - [java script](js.pdf)
 - [ ارزیابی عمومی](https://github.com/saharreyhani/PNU_3991_AR-1/blob/main/Theory-of-Languages-and-Machines/f94g_xx_generalsection_checklist_ar_3991-%DB%B6.pdf)
 - [ارزیابی عمومی بخش رزومه ](https://github.com/saharreyhani/PNU_3991_AR-1/blob/main/Theory-of-Languages-and-Machines/k8rj_xx_cv_checklist_ar_3991-%DB%B6.pdf)
+- [jlord patch work ](https://github.com/saharreyhani/PNU_3991_AR/blob/main/Screenshot%202021-01-19%20114903.png)
   
 
 ------------------
